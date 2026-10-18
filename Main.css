@@ -1,0 +1,54 @@
+body 
+{
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgb(186, 190, 178);
+}
+
+header 
+{
+    width: 100%;
+    overflow: hidden; 
+    color: #050505;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    background-color: #0b790b;
+}
+
+header h1 
+{
+    float: left;
+    margin-left: 5%;
+    font-size: 3em;
+    font-style: oblique;
+}
+
+header aside 
+{
+    width: 60%;
+    float: right;
+    margin-right: 10%;
+}
+
+nav ul 
+{
+    width: 100%;
+}
+
+nav ul li
+{
+    list-style: none;
+    width: 25%;
+    float: left;
+}
+
+nav a 
+{
+    font-size: 1.5em;
+    color: #0a0a0a;
+}
+
+footer
+{
+    width: 100%;
+}
